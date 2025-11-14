@@ -5,7 +5,7 @@
 This is the PyTorch implementation for the paper:
 >Fang Kai, Yu Zhang, Kaibin Wang, Lei Sang, Yiwen Zhang ["Revisiting Contrastive Learning in Collaborative Filtering via Parallel Graph Filters"]()
 
-## Model illustration
+## Model Illustration
 
 ![The figure illustrates the operational process of LightCSCF.](model-figure.png)
 
