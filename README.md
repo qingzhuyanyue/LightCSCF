@@ -23,7 +23,7 @@ We used three large-scale datasets: Amazon-book, Tmall and Douban-book. Most of 
 ## Examples to Run 
 Steps to run the code:
 1. In the folder . /configure to configure the LightCSCF.txt file;
-2. Run main.py `python main.py` and select the identifier of MODEL_NAME or specify through the command line:`python main.py --model=Light_CSCF`
+2. Run main.py `python main.py` and select the identifier of LightCSCF or specify through the command line:`python main.py --model=Light_CSCF`
 
 ## Hyperparameter Setting
 The best parameters for each dataset are provided as follows: 
