@@ -15,6 +15,7 @@ python == 3.12.3
 pytorch == 2.5.1 (cuda:12.4)
 scipy == 1.15.3
 numpy == 2.3.1
+tdqm == 4.65.0
 ```
 
 ## Examples
