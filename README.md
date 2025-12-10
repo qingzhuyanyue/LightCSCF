@@ -29,11 +29,11 @@ Steps to run the code:
 ## Hyperparameter Setting
 The best parameters for each dataset are provided as follows: 
 
-Dataset|`lambda_margin`|`lambda_gamma`|`temperature`|
-|-|-|-|-|
-Amazon-book|0.7|1|0.2|
-Douban-book|0.2|1|0.3|
-Tmall|0.4|5|0.2|
+Dataset|`lambda_margin`|`lambda_gamma`|`temperature`|`mode`|
+|-|-|-|-|-|
+Amazon-book|0.7|1|0.2|LightGCN|
+Douban-book|0.2|1|0.3|MF|
+Tmall|0.4|5|0.2|MF|
 
 ## Acknowledgments
 This project is built upon the following open-source framework:
